@@ -1,0 +1,9 @@
+{
+    "require": {
+        "erusev/parsedown": "^1.7",
+        "dvdoug/boxpacker": "^3.9",
+        "mikecao/flight": "^2.0",
+      "ext-xdebug": "*",
+      "ext-json": "*"
+    }
+}
