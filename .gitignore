@@ -17,6 +17,9 @@
 /logs/*
 !/logs/empty
 
+/.idea/
+/.vs/
+
 # CakePHP 2
 
 /app/tmp/*
